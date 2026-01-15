@@ -7,4 +7,4 @@ Linux environment setup and basic command exploration.
 - Task1 Word Document (includes summary + command outputs + screenshots)
 
 ## File Uploaded
-- DevOps_Task1_Linux_Exploration.docx
+- Task-01-Linux-Environment-Setup-Karthick.docx
