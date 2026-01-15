@@ -1,10 +1,23 @@
-# DevOps Internship - Task 1: Linux Environment Setup & Exploration
+# DevOps Internship – Task 1: Linux Environment Setup & Exploration
 
 ## Objective
-Linux environment setup and basic command exploration.
+Set up Ubuntu Linux VM using Vagrant and practice basic Linux commands for navigation, file handling, permissions, and monitoring.
 
-## Deliverable
-- Task1 Word Document (includes summary + command outputs + screenshots)
+## Environment
+- OS: Ubuntu (VM)
+- Setup: Vagrant
+- Access: Terminal / SSH
 
-## File Uploaded
-- Task-01-Linux-Environment-Setup-Karthick.docx
+## Deliverables
+- ✅ Command Log: `command-log.md`
+- ✅ Task Documentation (Summary + Screenshots): `Task-01-Linux-Environment-Setup-Karthick.docx`
+
+## Topics Covered
+- Directory navigation: `pwd`, `ls`, `cd`
+- File & directory operations: `mkdir`, `touch`, `rm`, `rmdir`
+- File viewing/editing: `cat`, `less`, `nano/vim`
+- Permissions & ownership: `chmod`, `chown`
+- Monitoring: `top`, `htop`, `df -h`, `free -m`
+
+## Final Outcome
+Gained confidence in working with Linux terminal commands and managing files/directories, permissions, and system resources.
